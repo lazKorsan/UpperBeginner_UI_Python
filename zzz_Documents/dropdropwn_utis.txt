@@ -1,0 +1,25 @@
+
+
+elementin uzerine gider
+gittiği elementi renklendrir
+gittiği elementin merkezine küçük dairesel işaret bırakir
+
+açılır menuden
+istenen elementin
+value
+indeks
+yada text ile seçim yapabilri.
+ayrıca seçilecek elemanı highlihgt yapar ve merkezine dairesel bir işaret bırakır
+
+# ikincisi
+dropdown uzerine gider
+elemente tiklar
+gittiği ana elementi highlight ile işaretler
+gittiği ana elementin merkezine dairesel işaret bırakır
+
+tiklama işleminden sonra açılan menuden
+
+istediği elementi  value,text, yada index ile seçer
+ayrıca bu elementi highlight eder , merkezine dairesei işaret koyar
+
+
